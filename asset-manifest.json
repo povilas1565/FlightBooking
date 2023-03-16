@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FlightBooking/static/css/main.285ea16c.chunk.css",
+    "main.js": "/FlightBooking/static/js/main.2a652f7f.chunk.js",
+    "main.js.map": "/FlightBooking/static/js/main.2a652f7f.chunk.js.map",
+    "runtime~main.js": "/FlightBooking/static/js/runtime~main.af035dc3.js",
+    "runtime~main.js.map": "/FlightBooking/static/js/runtime~main.af035dc3.js.map",
+    "static/css/2.e31a430a.chunk.css": "/FlightBooking/static/css/2.e31a430a.chunk.css",
+    "static/js/2.cf21cc97.chunk.js": "/FlightBooking/static/js/2.cf21cc97.chunk.js",
+    "static/js/2.cf21cc97.chunk.js.map": "/FlightBooking/static/js/2.cf21cc97.chunk.js.map",
+    "index.html": "/FlightBooking/index.html",
+    "precache-manifest.a73dfd533e05d144008d8d43d67be8cd.js": "/FlightBooking/precache-manifest.a73dfd533e05d144008d8d43d67be8cd.js",
+    "service-worker.js": "/FlightBooking/service-worker.js",
+    "static/css/2.e31a430a.chunk.css.map": "/FlightBooking/static/css/2.e31a430a.chunk.css.map",
+    "static/css/main.285ea16c.chunk.css.map": "/FlightBooking/static/css/main.285ea16c.chunk.css.map",
+    "static/media/multiflight.png": "/FlightBooking/static/media/multiflight.9f029423.png",
+    "static/media/nonstop.png": "/FlightBooking/static/media/nonstop.a8b2e228.png"
+  }
+}
